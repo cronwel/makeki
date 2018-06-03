@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Framework kind of like Rails but totally not that fancy}
   spec.description   = %q{Framework built from following Rebuilding Rails ebbook}
-  spec.homepage      = "http://github.com/cronwel/makeki"
+  spec.homepage      = "http://rubygems.org/gems/makeki"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
