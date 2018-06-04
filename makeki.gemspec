@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["noelirias@gmail.com"]
 
   spec.summary       = %q{Framework kind of like Rails but totally not that fancy}
-  spec.description   = %q{Framework built from following Rebuilding Rails ebbook}
+  spec.description   = %q{Framework built from scratch}
   spec.homepage      = "http://rubygems.org/gems/makeki"
   spec.license       = "MIT"
 
