@@ -6,4 +6,5 @@ module Makeki
       [200, {'Content-Type' => 'text/html'},
       ["Hello from Ruby on Makeki"]]
     end
+  end
 end
