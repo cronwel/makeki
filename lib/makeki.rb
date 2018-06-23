@@ -1,4 +1,5 @@
 require "makeki/version"
+require "makeki/array"
 
 module Makeki
   class Application
