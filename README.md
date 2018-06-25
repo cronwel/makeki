@@ -20,9 +20,23 @@ Or install it yourself as:
 
     $ gem install makeki
 
-## Usage
+## Goals
 
-TODO: Write usage instructions here
+The folder structure of this framework will be a little bit different than that of Rails, of which I am basing this entire app from. I notice that I have to navigate to multiple folders in a way that doesn't feel streamlined enough. It should be simpler in my opinion. Certain things could be grouped differently. Everything that is in Rails will be in here but structured differently, simpler in terms of navigating and sequence. 
+
+## Current Objectives
+- Basic Architecture
+- Basic Nomencalture for directories that seldom get used in the course of building an application so they are out of the way and I don't have it in my head that I am supposed to do something with them when in fact I never use them unless it's at a more sophisticated level.
+
+
+
+## Future Objectives
+- Structuring routes and controllers together where possible.
+- Creating Prime-Routes
+- Creating directories with routes and controllers, maybe models.
+- Create simplified pathway for Front-End incorporation to newer frameworks.
+
+## Usage
 
 ## Development
 
