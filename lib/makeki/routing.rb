@@ -5,7 +5,7 @@ module Makeki
             env["PATH_INFO"].split('/', 4)
             cont = cont.capitalize 
             cont += "Controller"
-            [action, Object.const_get(cont)]
+            [Object.const_get(cont), action ]
         end      
     end
 end
