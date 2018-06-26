@@ -1,9 +1,5 @@
 # Makeki
-
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/makeki`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
-
+A framework that feels familiar but simpler to navigate as you build your app. That's the goal. Navigating through multiple directories to complete a feature feels unnecessary. This is an experiment to see if it's possible to simplify some things that can take take away from focus while programming. 
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -14,7 +10,7 @@ gem 'makeki'
 
 And then execute:
 
-    $ bundle
+    $ bundle 
 
 Or install it yourself as:
 
@@ -46,7 +42,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/makeki. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/cronwel/makeki. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
