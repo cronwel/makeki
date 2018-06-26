@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/makeki.svg)](https://badge.fury.io/rb/makeki)
+
 # Makeki
 A framework that feels familiar but simpler to navigate as you build your app. That's the goal. Navigating through multiple directories to complete a feature feels unnecessary. This is an experiment to see if it's possible to simplify some things that can take take away from focus while programming. 
 ## Installation
